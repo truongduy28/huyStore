@@ -1,0 +1,7 @@
+node_modules
+uploads
+images
+package-lock.json
+img
+client/node_modules
+server/node_modules
